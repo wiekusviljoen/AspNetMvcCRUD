@@ -28,6 +28,7 @@ body {
     align-content: baseline;
     align-items: center;
     width:fit-content;
+    padding:10px;
 }
     .nav-item1:hover {
         background-color: #138ef7;
@@ -42,6 +43,7 @@ body {
     align-content: baseline;
     align-items: center;
     width: fit-content;
+    padding: 10px;
 }
     .nav-item2:hover {
         background-color: #138ef7;
@@ -56,6 +58,7 @@ body {
     align-content: baseline;
     align-items: center;
     width: fit-content;
+    padding: 10px;
 }
 
     .nav-item3:hover {
@@ -71,6 +74,7 @@ body {
     align-content: baseline;
     align-items: center;
     width: fit-content;
+    padding: 10px;
 }
 
 .nav-item4:hover {
