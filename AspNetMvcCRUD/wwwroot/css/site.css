@@ -27,6 +27,7 @@ body {
     object-fit: fill;
     align-content: baseline;
     align-items: center;
+    width:fit-content;
 }
     .nav-item1:hover {
         background-color: #138ef7;
@@ -40,6 +41,7 @@ body {
     object-fit: fill;
     align-content: baseline;
     align-items: center;
+    width: fit-content;
 }
     .nav-item2:hover {
         background-color: #138ef7;
@@ -53,6 +55,7 @@ body {
     object-fit: fill;
     align-content: baseline;
     align-items: center;
+    width: fit-content;
 }
 
     .nav-item3:hover {
@@ -65,8 +68,9 @@ body {
     border-radius: 10px;
     margin: 5px;
     object-fit: fill;
-    align-content:baseline;
-    align-items:center;
+    align-content: baseline;
+    align-items: center;
+    width: fit-content;
 }
 
 .nav-item4:hover {
