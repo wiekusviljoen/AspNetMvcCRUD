@@ -77,14 +77,13 @@ body {
     background-color: #138ef7;
 }
 
-.display-4{
-    background-color:#138ef7;
-    border-radius:5px;
-    height:200px;
-    
-    padding:20px;
-    margin-top:100px;
-    align-content:center;
-    align-items:center;
-    
+.text-center {
+    background-color: #138ef7;
+    border-radius: 5px;
+    height: 200px;
+    font-display: block;
+    padding: 20px;
+    margin-top: 100px;
+    align-content: center;
+    align-items: center;
 }
