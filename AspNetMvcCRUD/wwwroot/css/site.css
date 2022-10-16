@@ -21,44 +21,56 @@ body {
 
 .nav-item1 {
     cursor: pointer;
-    background-color: #138ef7;
+    background-color: #5a5656;
     border-radius: 10px;
     margin: 5px;
+    object-fit: fill;
+    align-content: baseline;
+    align-items: center;
 }
-    .nav-item1:hover{
-        background-color:#5a5656;
+    .nav-item1:hover {
+        background-color: #138ef7;
     }
 
-    .nav-item2 {
-        cursor: pointer;
-        background-color: #138ef7;
-        border-radius: 10px;
-        margin: 5px;
-    }
-.nav-item2:hover {
+.nav-item2 {
+    cursor: pointer;
     background-color: #5a5656;
+    border-radius: 10px;
+    margin: 5px;
+    object-fit: fill;
+    align-content: baseline;
+    align-items: center;
 }
+    .nav-item2:hover {
+        background-color: #138ef7;
+    }
 
 .nav-item3 {
     cursor: pointer;
-    background-color: #138ef7;
+    background-color: #5a5656;
     border-radius: 10px;
     margin: 5px;
+    object-fit: fill;
+    align-content: baseline;
+    align-items: center;
 }
 
-.nav-item3:hover {
-    background-color: #5a5656;
-}
+    .nav-item3:hover {
+        background-color: #138ef7;
+    }
 
 .nav-item4 {
     cursor: pointer;
-    background-color: #138ef7;
+    background-color: #5a5656;
     border-radius: 10px;
     margin: 5px;
+    object-fit: fill;
+    align-content:baseline;
+    align-items:center;
 }
 
 .nav-item4:hover {
-    background-color: #5a5656;
+    background-color: #138ef7;
 }
 
 .display-4{
@@ -70,4 +82,5 @@ body {
     margin-top:100px;
     align-content:center;
     align-items:center;
+    
 }
